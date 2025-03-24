@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"Tests\\Unit\\WorkerTest::it_created_worker":5,"Tests\\Unit\\WorkerTest::test_that_it_created_worker":5,"Tests\\Unit\\WorkerTest::get_worker":4},"times":{"Warning":0.009,"Tests\\Unit\\WorkerTest::it_created_worker":0.04,"Tests\\Unit\\WorkerTest::test_that_it_created_worker":0.037,"Tests\\Unit\\WorkerTest::get_worker":0.027}}

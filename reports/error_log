@@ -1,0 +1,42 @@
+[13-Mar-2024 08:06:28 America/Chicago] PHP Warning:  Undefined array key "shop_name" in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 10
+[13-Mar-2024 08:06:28 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 18
+[13-Mar-2024 08:06:28 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 26
+[13-Mar-2024 08:06:28 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 26
+[13-Mar-2024 08:06:28 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[13-Mar-2024 08:06:28 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[13-Mar-2024 08:06:28 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[13-Mar-2024 08:06:28 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 31
+[13-Mar-2024 18:36:28 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 9
+[13-Mar-2024 18:36:28 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 25
+[13-Mar-2024 18:36:28 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 43
+[13-Mar-2024 18:36:28 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/daypaymentlist.php on line 10
+[13-Mar-2024 18:36:28 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/payment_report.php on line 131
+[13-Mar-2024 18:36:28 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/payment_report.php on line 163
+[27-Apr-2024 08:33:26 America/Chicago] PHP Warning:  Undefined array key "shop_name" in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 10
+[27-Apr-2024 08:33:26 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 18
+[27-Apr-2024 08:33:26 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 26
+[27-Apr-2024 08:33:26 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 26
+[27-Apr-2024 08:33:26 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[27-Apr-2024 08:33:26 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[27-Apr-2024 08:33:26 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[27-Apr-2024 08:33:26 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 31
+[27-Apr-2024 19:03:26 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 9
+[27-Apr-2024 19:03:26 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 25
+[27-Apr-2024 19:03:26 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 43
+[27-Apr-2024 19:03:26 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/daypaymentlist.php on line 10
+[27-Apr-2024 19:03:26 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/payment_report.php on line 131
+[27-Apr-2024 19:03:26 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/payment_report.php on line 163
+[24-Jul-2024 08:30:56 America/Chicago] PHP Warning:  Undefined array key "shop_name" in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 10
+[24-Jul-2024 08:30:56 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 18
+[24-Jul-2024 08:30:56 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 26
+[24-Jul-2024 08:30:56 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 26
+[24-Jul-2024 08:30:56 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[24-Jul-2024 08:30:56 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[24-Jul-2024 08:30:56 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 28
+[24-Jul-2024 08:30:56 America/Chicago] PHP Warning:  Undefined variable $role in /home1/brightwm/fabindia.sapnayfurnishings.com/header.php on line 31
+[24-Jul-2024 19:00:56 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 9
+[24-Jul-2024 19:00:56 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 25
+[24-Jul-2024 19:00:56 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/pcspaymentlist.php on line 43
+[24-Jul-2024 19:00:56 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/daypaymentlist.php on line 10
+[24-Jul-2024 19:00:56 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/payment_report.php on line 131
+[24-Jul-2024 19:00:56 Asia/Kolkata] PHP Warning:  Undefined variable $shop in /home1/brightwm/fabindia.sapnayfurnishings.com/reports/payment_report.php on line 163
